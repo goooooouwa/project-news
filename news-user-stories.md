@@ -140,4 +140,4 @@
 #### 验收标准:
 
 - 导航栏显示LOGOUT
-- 点击LOGOUT，退出登录，并跳转到首页（http://www.codingirls.club/）
+- 点击LOGOUT，退出登录，并跳转到首页（[http://www.codingirls.club/](http://www.codingirls.club/)）
